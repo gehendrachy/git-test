@@ -1,3 +1,3 @@
-#GIT BASICS
+# GIT BASICS
 
 ## Git Commands
